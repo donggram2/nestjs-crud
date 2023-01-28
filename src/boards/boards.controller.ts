@@ -16,3 +16,4 @@ export class BoardsController {
     return this.boardsService.createBoard(createBoardDto);
   }
 }
+ 
