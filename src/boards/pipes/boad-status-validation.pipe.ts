@@ -17,3 +17,4 @@ export class BoardStatusValidationPipe implements PipeTransform {
     return index !== -1;
   }
 }
+ 
